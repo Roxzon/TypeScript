@@ -1,0 +1,25 @@
+¿Que es TS?
+Creado por microsoft para resolver deficiencias de JS
+Más rigidez al código
+Debe cumplir con ciertas reglas
+Todo el código escrito en JS se puede ejecutar en TS
+Más importante: Tipado estatico
+Estatico:
+    C++
+    Java
+    C#
+    Conocemos el tipo de dato al compilar la app
+    Por ejemplo
+    n=1 sabemos que n es de tipo numero
+    
+    Si definimos un string animal
+    con valor de "cerdito"
+    pero si esa variable animal 
+    la cambiamos a 12 marcaria un error
+
+Dinamicos:
+    Python
+    JavaScript
+    let animal = "cerdito"
+    animal = 42 esto no arroja error
+
