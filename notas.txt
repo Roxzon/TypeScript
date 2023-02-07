@@ -20,6 +20,22 @@ Estatico:
 Dinamicos:
     Python
     JavaScript
+
     let animal = "cerdito"
     animal = 42 esto no arroja error
 
+Para simplificarlos TS es JavaScript pero con tipado estatico
+Beneficios:
+-Entregarle el código al compilador
+-Mensajes de error en tiempo real
+
+Contras:
+-Vas a sentir que TS se mete en tu camino
+
+Para que el código se pueda ejecutar:
+Tenemos archivos .ts los pasamos al compilador de TS llamado TSC
+Lo traduce a codigo escrito a .js se le llama transpilacion
+Transpilacion: tomamos un codigo fuente escrito en un lenguaje
+y lo transformamos en otro con un nivel de abstraccion similar
+
+Tipos en TS
